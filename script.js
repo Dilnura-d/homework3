@@ -12,7 +12,7 @@ function setInfo()
     name: prompt('Type your name'),
     surname : prompt('Type your surname'),
     age : prompt('Type your age'),
-    object: {student1:""
+    object: {student2:""
     }}
     console.log(student2);
 
@@ -20,7 +20,7 @@ function setInfo()
     name: prompt('Type your name'),
     surname : prompt('Type your surname'),
     age : prompt('Type your age'),
-    object: {student1:""
+    object: {student3:""
     }}
     console.log(student3);
 
@@ -28,7 +28,7 @@ function setInfo()
     name: prompt('Type your name'),
     surname : prompt('Type your surname'),
     age : prompt('Type your age'),
-    object: {student1:""
+    object: {student4:""
     }}
     console.log(student4);
 
