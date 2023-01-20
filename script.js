@@ -1,4 +1,3 @@
-
 function setInfo()
  {let student1 = {
     name: prompt('Type your name'),
@@ -31,7 +30,6 @@ function setInfo()
     object: {student4:""
     }}
     console.log(student4);
-
 
     let student5 = {
         name: prompt('Type your name'),
